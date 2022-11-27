@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeadFirstChap2</string>
+    <string-array name="entry">
+        <item>Option A</item>
+        <item>Option B</item>
+    </string-array>
+</resources>
